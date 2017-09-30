@@ -77,7 +77,7 @@
 2014년 5월 6일 코어 응용 프로그램을 포함한 아톰의 나머지 부분인 아톰의 패키지 관리자, 아톰의 크로미엄 기반 데스크톱 응용 프로그램 프레임워크, 일렉트론(Electron, 과거의 아톰 셸)이 MIT 라이선스 하의 자유 소프트웨어로 공개되었다.
 
 <p align="center">
-<img src = "https://dl.dropboxusercontent.com/s/zx8wfu0ou33awhz/atom.png" width="780" height="300">
+<img src = "https://dl.dropboxusercontent.com/s/zx8wfu0ou33awhz/atom.png" width="490" height="150">
 <p/>
 
 
@@ -96,7 +96,7 @@ FreeCAD는 3D 개체에 대한 다양한 일반 형식에서 가져오고 내보
 사용자가 비디오, 음악, 팟캐스트, 인터넷의 비디오, 로컬 및 네트워크 스토리지 미디어의 모든 디지털 미디어 파일을 포함, 대부분의 스트리밍 미디어를 재생하고 볼 수 있다.
 
 <p align="center">
-<img src = "https://dl.dropboxusercontent.com/s/iswzlmxibsjcs2o/Kodi.png" width="350" height="350">
+<img src = "https://dl.dropboxusercontent.com/s/iswzlmxibsjcs2o/Kodi.png" width="250" height="250">
 <p/>
 
 
@@ -110,7 +110,7 @@ FreeCAD는 3D 개체에 대한 다양한 일반 형식에서 가져오고 내보
 오늘날 이클립스 커뮤니티는 소프트웨어 업계의 여러 분야에서 개인과 조직으로 구성된다.
 
 <p align="center">
-<img src = "https://dl.dropboxusercontent.com/s/9ngexfx8it9bhm0/eclipse.png" width="800" height="188">
+<img src = "https://dl.dropboxusercontent.com/s/9ngexfx8it9bhm0/eclipse.png" width="400" height="94">
 <p/>
 
 <hr/>
