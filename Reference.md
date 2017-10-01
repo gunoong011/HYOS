@@ -45,3 +45,12 @@
 * USENET Image, https://ko.wikipedia.org/wiki/유즈넷
 
 * Free software movement, https://en.wikipedia.org/wiki/Free_software_movement
+
+* Linux, https://en.wikipedia.org/wiki/Linux
+
+* Linux Kernel, https://en.wikipedia.org/wiki/Linux_kernel
+
+* OSI(Open Source Initiative), https://en.wikipedia.org/wiki/Open_Source_Initiative
+
+* Eric S. Raymond, https://en.wikipedia.org/wiki/Eric_S._Raymond
+
