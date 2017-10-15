@@ -1,3 +1,10 @@
+<p align="center">
+<img src = "https://dl.dropbox.com/s/szzjjq2fcv7ouvw/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202017-10-15%20%EC%98%A4%ED%9B%84%201.53.59.png" width="1000" height="1250">
+<p/>
+
+---
+----
+
 # 차례
 
 ## Chapter 01. 오픈소스 소개
